@@ -2,5 +2,5 @@
 
 void main()
 {
-	fprint("Hello World... :/")
+	fprint("Hello World... :/");
 }
